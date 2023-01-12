@@ -5,32 +5,22 @@
   Esse projeto realiza calculo de IMC(Índice de massa corporal) e mostra resultado na tela
   
 ## O que foi aprendido?
-  Segue abaixo os principais conceitos práticado nesse projeto
-  [] ES6 MODULES;
-  
-  [] ESTRUTURAÇÃO DADOS DO MODAL;
-  
-  [] VALIDAÇÃO DADOS;
-  
-  [] FUNÇÃO;
-  
-  [] FUNÇÃO CALLBACK;
-  
-  [] REFATORAÇÃO;
-  
-  [] MANIPULAÇÃO DOM;
-  
-  [] DIPLAY GRID;
-  
-  [] IF ELSE;
+  Segue abaixo os principais conceitos práticado nesse projeto:
+  ES6 MODULES;
+  Estruturação dados modal;
+  Validação de dados;
+  Função;
+  Função Callback;
+  Refatoração;
+  Manipulação DOM;
+  Display Grid;
+  If Else;
   
 
 ## Tecnologies
-  [] HTML;
-  
-  [] CSS;
-  
-  [] JAVASCRIPT;
+HTML;
+CSS;
+JAVASCRIPT;
 
 ## Contato
 E-mail: e.rickilopova@hotmail.com
