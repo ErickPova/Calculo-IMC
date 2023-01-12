@@ -7,13 +7,21 @@
 ## O que foi aprendido?
   Segue abaixo os principais conceitos práticado nesse projeto:
     -ES6 MODULES
+    
     -Estruturação dados modal
+    
     -Validação de dados
+    
     -Função
+    
     -Função Callback
+    
     -Refatoração
+    
     -Manipulação DOM
+    
     -Display Grid
+    
     -If Else
   
 
