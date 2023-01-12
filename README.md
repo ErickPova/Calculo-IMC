@@ -1,5 +1,5 @@
 # Preview do projeto Calculadora de IMC
-<img src="/preview.png" alt="Preview do projeto"/>
+<img src="preview.png" alt="Preview do projeto"/>
 
 ## Calculo IMC - Stage 05.
   Esse projeto realiza calculo de IMC(Índice de massa corporal) e mostra resultado na tela
