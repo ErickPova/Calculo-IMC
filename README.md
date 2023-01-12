@@ -6,7 +6,7 @@
   
 ## O que foi aprendido?
   Segue abaixo os principais conceitos práticado nesse projeto:
-    • ES6 MODULES
+    • ES6 MODULES;
     • Estruturação dados modal
     • Validação de dados
     • Função
